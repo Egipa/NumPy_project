@@ -6,10 +6,7 @@ Then split result into horizontal parts, concatenate every second parts horisont
 and combine images into one.
 Finaly displays the resulting image.
 ## Requirements
-The code requires the following libraries:
-- NumPy (version 1.16 or later)
-- Matplotlib (version 2.0 or later)
-- Pillow (version 5.0 or later)
+The code requires libraries. Install necessary libraries: `pip install -r requirements.txt`
 ## Usage
 To use the code, run the src.py script with Python 3.
 The script takes an input image file as a command-line argument. 
